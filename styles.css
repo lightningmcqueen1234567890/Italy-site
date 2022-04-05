@@ -1,0 +1,36 @@
+h1{
+    color: red;
+}
+
+ul{
+    border: 5px dotted;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li{
+border: outset;
+display: inline-block;
+}
+
+.pictures{
+margin: auto;
+display: block;
+width: 70%;
+}
+
+img{
+    display: block;
+    width: 70%;
+}
+
+.headings{
+    text-align: center;
+}
+
+.Text{
+    text-align: center;
+}
